@@ -1,14 +1,54 @@
 {
-  "seed": 2,
+  "seed": 5,
   "deck": {
     "cards": [
       {
-        "color": "RED",
+        "color": "GREEN",
         "value": "THREE",
         "effectKey": "Стандартная"
       },
       {
         "color": "GREEN",
+        "value": "SKIP",
+        "effectKey": "Пропуск хода"
+      },
+      {
+        "color": "RED",
+        "value": "EIGHT",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "GREEN",
+        "value": "TWO",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
+        "value": "SEVEN",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "RED",
+        "value": "DRAW_TWO",
+        "effectKey": "Взять две"
+      },
+      {
+        "color": "WILD",
+        "value": "WILD_DRAW_FOUR",
+        "effectKey": "Изменить цвет + взять 4"
+      },
+      {
+        "color": "WILD",
+        "value": "WILD",
+        "effectKey": "Изменить цвет"
+      },
+      {
+        "color": "RED",
+        "value": "EIGHT",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "YELLOW",
         "value": "DRAW_TWO",
         "effectKey": "Взять две"
       },
@@ -18,13 +58,13 @@
         "effectKey": "Стандартная"
       },
       {
-        "color": "BLUE",
-        "value": "FIVE",
-        "effectKey": "Стандартная"
+        "color": "YELLOW",
+        "value": "DRAW_TWO",
+        "effectKey": "Взять две"
       },
       {
-        "color": "RED",
-        "value": "EIGHT",
+        "color": "YELLOW",
+        "value": "THREE",
         "effectKey": "Стандартная"
       },
       {
@@ -34,12 +74,17 @@
       },
       {
         "color": "YELLOW",
-        "value": "SEVEN",
+        "value": "TWO",
         "effectKey": "Стандартная"
       },
       {
         "color": "GREEN",
-        "value": "ONE",
+        "value": "NINE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
+        "value": "THREE",
         "effectKey": "Стандартная"
       },
       {
@@ -48,163 +93,48 @@
         "effectKey": "Изменить цвет + взять 4"
       },
       {
-        "color": "BLUE",
-        "value": "SIX",
+        "color": "RED",
+        "value": "ONE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "GREEN",
+        "value": "SEVEN",
         "effectKey": "Стандартная"
       },
       {
         "color": "YELLOW",
-        "value": "NINE",
+        "value": "SEVEN",
         "effectKey": "Стандартная"
       },
       {
-        "color": "BLUE",
-        "value": "DRAW_TWO",
-        "effectKey": "Взять две"
-      },
-      {
-        "color": "YELLOW",
-        "value": "NINE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "BLUE",
+        "color": "GREEN",
         "value": "FOUR",
         "effectKey": "Стандартная"
       },
       {
-        "color": "RED",
-        "value": "DRAW_TWO",
-        "effectKey": "Взять две"
+        "color": "YELLOW",
+        "value": "SEVEN",
+        "effectKey": "Стандартная"
       },
       {
-        "color": "BLUE",
+        "color": "YELLOW",
+        "value": "EIGHT",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "RED",
         "value": "THREE",
         "effectKey": "Стандартная"
       },
       {
-        "color": "RED",
-        "value": "ZERO",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "GREEN",
-        "value": "THREE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
-        "value": "EIGHT",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "GREEN",
-        "value": "ZERO",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "RED",
-        "value": "FOUR",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "RED",
-        "value": "REVERSE",
-        "effectKey": "Изменить порядок ходов"
-      },
-      {
-        "color": "GREEN",
-        "value": "EIGHT",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "RED",
-        "value": "SIX",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
-        "value": "ZERO",
-        "effectKey": "Стандартная"
-      },
-      {
         "color": "BLUE",
-        "value": "SIX",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "BLUE",
-        "value": "SEVEN",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "BLUE",
-        "value": "EIGHT",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "WILD",
-        "value": "WILD",
-        "effectKey": "Изменить цвет"
-      },
-      {
-        "color": "BLUE",
-        "value": "TWO",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "RED",
-        "value": "SEVEN",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "WILD",
-        "value": "WILD_DRAW_FOUR",
-        "effectKey": "Изменить цвет + взять 4"
-      },
-      {
-        "color": "YELLOW",
-        "value": "SIX",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "RED",
-        "value": "TWO",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "RED",
-        "value": "NINE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
-        "value": "SEVEN",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "GREEN",
-        "value": "FIVE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "BLUE",
-        "value": "FIVE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "RED",
         "value": "DRAW_TWO",
         "effectKey": "Взять две"
       },
       {
-        "color": "WILD",
-        "value": "WILD",
-        "effectKey": "Изменить цвет"
-      },
-      {
-        "color": "YELLOW",
-        "value": "FOUR",
+        "color": "RED",
+        "value": "SIX",
         "effectKey": "Стандартная"
       },
       {
@@ -214,67 +144,57 @@
       },
       {
         "color": "RED",
-        "value": "SIX",
-        "effectKey": "Стандартная"
+        "value": "SKIP",
+        "effectKey": "Пропуск хода"
       },
       {
         "color": "RED",
-        "value": "FOUR",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "GREEN",
-        "value": "REVERSE",
-        "effectKey": "Изменить порядок ходов"
-      },
-      {
-        "color": "RED",
-        "value": "ONE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
         "value": "DRAW_TWO",
         "effectKey": "Взять две"
       },
       {
-        "color": "YELLOW",
-        "value": "REVERSE",
-        "effectKey": "Изменить порядок ходов"
+        "color": "GREEN",
+        "value": "SIX",
+        "effectKey": "Стандартная"
       },
       {
         "color": "GREEN",
+        "value": "THREE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
+        "value": "ZERO",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "YELLOW",
+        "value": "THREE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "WILD",
+        "value": "WILD",
+        "effectKey": "Изменить цвет"
+      },
+      {
+        "color": "RED",
         "value": "FOUR",
         "effectKey": "Стандартная"
       },
       {
         "color": "RED",
-        "value": "TWO",
+        "value": "FOUR",
         "effectKey": "Стандартная"
       },
       {
-        "color": "WILD",
-        "value": "WILD_DRAW_FOUR",
-        "effectKey": "Изменить цвет + взять 4"
-      },
-      {
         "color": "BLUE",
-        "value": "NINE",
+        "value": "SIX",
         "effectKey": "Стандартная"
       },
       {
         "color": "GREEN",
-        "value": "THREE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
         "value": "EIGHT",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
-        "value": "THREE",
         "effectKey": "Стандартная"
       },
       {
@@ -283,23 +203,48 @@
         "effectKey": "Пропуск хода"
       },
       {
+        "color": "RED",
+        "value": "REVERSE",
+        "effectKey": "Изменить порядок ходов"
+      },
+      {
+        "color": "GREEN",
+        "value": "FIVE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "RED",
+        "value": "TWO",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "GREEN",
+        "value": "DRAW_TWO",
+        "effectKey": "Взять две"
+      },
+      {
+        "color": "BLUE",
+        "value": "THREE",
+        "effectKey": "Стандартная"
+      },
+      {
         "color": "YELLOW",
+        "value": "FOUR",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
         "value": "TWO",
         "effectKey": "Стандартная"
       },
       {
         "color": "BLUE",
-        "value": "SEVEN",
+        "value": "FIVE",
         "effectKey": "Стандартная"
       },
       {
-        "color": "RED",
-        "value": "NINE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
-        "value": "TWO",
+        "color": "GREEN",
+        "value": "FIVE",
         "effectKey": "Стандартная"
       },
       {
@@ -309,23 +254,33 @@
       },
       {
         "color": "RED",
-        "value": "EIGHT",
+        "value": "FIVE",
         "effectKey": "Стандартная"
       },
       {
-        "color": "RED",
-        "value": "REVERSE",
-        "effectKey": "Изменить порядок ходов"
+        "color": "YELLOW",
+        "value": "NINE",
+        "effectKey": "Стандартная"
       },
       {
-        "color": "BLUE",
+        "color": "GREEN",
         "value": "EIGHT",
         "effectKey": "Стандартная"
       },
       {
         "color": "GREEN",
-        "value": "TWO",
+        "value": "DRAW_TWO",
+        "effectKey": "Взять две"
+      },
+      {
+        "color": "YELLOW",
+        "value": "EIGHT",
         "effectKey": "Стандартная"
+      },
+      {
+        "color": "YELLOW",
+        "value": "SKIP",
+        "effectKey": "Пропуск хода"
       },
       {
         "color": "GREEN",
@@ -333,18 +288,33 @@
         "effectKey": "Стандартная"
       },
       {
-        "color": "GREEN",
-        "value": "SIX",
+        "color": "YELLOW",
+        "value": "SKIP",
+        "effectKey": "Пропуск хода"
+      },
+      {
+        "color": "YELLOW",
+        "value": "FIVE",
         "effectKey": "Стандартная"
       },
       {
         "color": "BLUE",
-        "value": "REVERSE",
-        "effectKey": "Изменить порядок ходов"
+        "value": "DRAW_TWO",
+        "effectKey": "Взять две"
       },
       {
-        "color": "BLUE",
-        "value": "ZERO",
+        "color": "WILD",
+        "value": "WILD_DRAW_FOUR",
+        "effectKey": "Изменить цвет + взять 4"
+      },
+      {
+        "color": "GREEN",
+        "value": "ONE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "RED",
+        "value": "THREE",
         "effectKey": "Стандартная"
       },
       {
@@ -358,113 +328,98 @@
         "effectKey": "Стандартная"
       },
       {
-        "color": "GREEN",
-        "value": "FIVE",
+        "color": "RED",
+        "value": "SIX",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
+        "value": "REVERSE",
+        "effectKey": "Изменить порядок ходов"
+      },
+      {
+        "color": "BLUE",
+        "value": "NINE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "RED",
+        "value": "SEVEN",
         "effectKey": "Стандартная"
       },
       {
         "color": "WILD",
         "value": "WILD",
         "effectKey": "Изменить цвет"
+      },
+      {
+        "color": "RED",
+        "value": "NINE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "GREEN",
+        "value": "SEVEN",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "YELLOW",
+        "value": "REVERSE",
+        "effectKey": "Изменить порядок ходов"
+      },
+      {
+        "color": "YELLOW",
+        "value": "NINE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
+        "value": "SKIP",
+        "effectKey": "Пропуск хода"
+      },
+      {
+        "color": "GREEN",
+        "value": "ZERO",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "RED",
+        "value": "SEVEN",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
+        "value": "FIVE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "YELLOW",
+        "value": "SIX",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
+        "value": "TWO",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "RED",
+        "value": "REVERSE",
+        "effectKey": "Изменить порядок ходов"
       }
     ]
   },
   "discardPile": {
     "pile": [
       {
-        "color": "GREEN",
-        "value": "SIX",
-        "effectKey": "Стандартная"
-      },
-      {
         "color": "YELLOW",
-        "value": "SIX",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
-        "value": "SKIP",
-        "effectKey": "Пропуск хода"
-      },
-      {
-        "color": "YELLOW",
-        "value": "FIVE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
-        "value": "FOUR",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "YELLOW",
-        "value": "DRAW_TWO",
-        "effectKey": "Взять две"
-      },
-      {
-        "color": "BLUE",
-        "value": "DRAW_TWO",
-        "effectKey": "Взять две"
-      },
-      {
-        "color": "BLUE",
-        "value": "SKIP",
-        "effectKey": "Пропуск хода"
-      },
-      {
-        "color": "GREEN",
-        "value": "SKIP",
-        "effectKey": "Пропуск хода"
-      },
-      {
-        "color": "GREEN",
-        "value": "FOUR",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "GREEN",
-        "value": "SEVEN",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "GREEN",
-        "value": "SKIP",
-        "effectKey": "Пропуск хода"
-      },
-      {
-        "color": "GREEN",
-        "value": "TWO",
-        "effectKey": "Стандартная"
+        "value": "REVERSE",
+        "effectKey": "Изменить порядок ходов"
       },
       {
         "color": "GREEN",
         "value": "REVERSE",
         "effectKey": "Изменить порядок ходов"
-      },
-      {
-        "color": "BLUE",
-        "value": "REVERSE",
-        "effectKey": "Изменить порядок ходов"
-      },
-      {
-        "color": "BLUE",
-        "value": "THREE",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "BLUE",
-        "value": "TWO",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "BLUE",
-        "value": "FOUR",
-        "effectKey": "Стандартная"
-      },
-      {
-        "color": "BLUE",
-        "value": "ONE",
-        "effectKey": "Стандартная"
       },
       {
         "color": "WILD",
@@ -473,26 +428,56 @@
       },
       {
         "color": "YELLOW",
-        "value": "THREE",
+        "value": "FOUR",
         "effectKey": "Стандартная"
       },
       {
-        "color": "RED",
-        "value": "THREE",
+        "color": "YELLOW",
+        "value": "ZERO",
         "effectKey": "Стандартная"
       },
       {
-        "color": "RED",
-        "value": "SEVEN",
+        "color": "YELLOW",
+        "value": "SIX",
         "effectKey": "Стандартная"
       },
       {
-        "color": "RED",
-        "value": "FIVE",
+        "color": "YELLOW",
+        "value": "ONE",
         "effectKey": "Стандартная"
       },
       {
-        "color": "RED",
+        "color": "BLUE",
+        "value": "ONE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
+        "value": "SIX",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "GREEN",
+        "value": "SIX",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "GREEN",
+        "value": "ONE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "GREEN",
+        "value": "FOUR",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "GREEN",
+        "value": "TWO",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "GREEN",
         "value": "SKIP",
         "effectKey": "Пропуск хода"
       },
@@ -502,235 +487,210 @@
         "effectKey": "Пропуск хода"
       },
       {
-        "color": "YELLOW",
-        "value": "SKIP",
-        "effectKey": "Пропуск хода"
+        "color": "BLUE",
+        "value": "EIGHT",
+        "effectKey": "Стандартная"
       },
       {
-        "color": "YELLOW",
+        "color": "BLUE",
+        "value": "SEVEN",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
         "value": "REVERSE",
         "effectKey": "Изменить порядок ходов"
       },
       {
-        "color": "YELLOW",
-        "value": "ONE",
+        "color": "BLUE",
+        "value": "FOUR",
         "effectKey": "Стандартная"
       },
       {
-        "color": "GREEN",
-        "value": "ONE",
+        "color": "BLUE",
+        "value": "FOUR",
         "effectKey": "Стандартная"
       },
       {
-        "color": "GREEN",
-        "value": "DRAW_TWO",
-        "effectKey": "Взять две"
+        "color": "BLUE",
+        "value": "EIGHT",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "BLUE",
+        "value": "NINE",
+        "effectKey": "Стандартная"
+      },
+      {
+        "color": "RED",
+        "value": "NINE",
+        "effectKey": "Стандартная"
       }
     ]
   },
   "hands": [
     {
+      "cards": [
+        {
+          "color": "RED",
+          "value": "ZERO",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "YELLOW",
+          "value": "TWO",
+          "effectKey": "Стандартная"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "color": "RED",
+          "value": "TWO",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "GREEN",
+          "value": "REVERSE",
+          "effectKey": "Изменить порядок ходов"
+        }
+      ]
+    },
+    {
       "cards": []
-    },
-    {
-      "cards": [
-        {
-          "color": "GREEN",
-          "value": "EIGHT",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "GREEN",
-          "value": "SEVEN",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "GREEN",
-          "value": "NINE",
-          "effectKey": "Стандартная"
-        }
-      ]
-    },
-    {
-      "cards": [
-        {
-          "color": "BLUE",
-          "value": "NINE",
-          "effectKey": "Стандартная"
-        }
-      ]
     }
   ],
   "stats": {
     "playedCardsByPlayer": {
       "0": [
         {
+          "color": "GREEN",
+          "value": "REVERSE",
+          "effectKey": "Изменить порядок ходов"
+        },
+        {
           "color": "YELLOW",
+          "value": "ZERO",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "YELLOW",
+          "value": "ONE",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "BLUE",
           "value": "SIX",
           "effectKey": "Стандартная"
         },
         {
-          "color": "YELLOW",
+          "color": "GREEN",
           "value": "FOUR",
           "effectKey": "Стандартная"
         },
         {
           "color": "BLUE",
-          "value": "SKIP",
-          "effectKey": "Пропуск хода"
-        },
-        {
-          "color": "GREEN",
-          "value": "TWO",
+          "value": "SEVEN",
           "effectKey": "Стандартная"
         },
         {
           "color": "BLUE",
-          "value": "REVERSE",
-          "effectKey": "Изменить порядок ходов"
-        },
-        {
-          "color": "BLUE",
-          "value": "FOUR",
+          "value": "NINE",
           "effectKey": "Стандартная"
-        },
-        {
-          "color": "YELLOW",
-          "value": "THREE",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "RED",
-          "value": "SKIP",
-          "effectKey": "Пропуск хода"
-        },
-        {
-          "color": "YELLOW",
-          "value": "SKIP",
-          "effectKey": "Пропуск хода"
-        },
-        {
-          "color": "YELLOW",
-          "value": "ONE",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "GREEN",
-          "value": "DRAW_TWO",
-          "effectKey": "Взять две"
         }
       ],
       "1": [
-        {
-          "color": "YELLOW",
-          "value": "SKIP",
-          "effectKey": "Пропуск хода"
-        },
-        {
-          "color": "YELLOW",
-          "value": "DRAW_TWO",
-          "effectKey": "Взять две"
-        },
-        {
-          "color": "GREEN",
-          "value": "SKIP",
-          "effectKey": "Пропуск хода"
-        },
-        {
-          "color": "GREEN",
-          "value": "SEVEN",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "BLUE",
-          "value": "THREE",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "BLUE",
-          "value": "ONE",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "RED",
-          "value": "THREE",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "RED",
-          "value": "SEVEN",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "BLUE",
-          "value": "SKIP",
-          "effectKey": "Пропуск хода"
-        }
-      ],
-      "2": [
-        {
-          "color": "YELLOW",
-          "value": "FIVE",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "BLUE",
-          "value": "DRAW_TWO",
-          "effectKey": "Взять две"
-        },
-        {
-          "color": "GREEN",
-          "value": "FOUR",
-          "effectKey": "Стандартная"
-        },
-        {
-          "color": "GREEN",
-          "value": "SKIP",
-          "effectKey": "Пропуск хода"
-        },
-        {
-          "color": "GREEN",
-          "value": "REVERSE",
-          "effectKey": "Изменить порядок ходов"
-        },
-        {
-          "color": "BLUE",
-          "value": "TWO",
-          "effectKey": "Стандартная"
-        },
         {
           "color": "WILD",
           "value": "WILD_DRAW_FOUR",
           "effectKey": "Изменить цвет + взять 4"
         },
         {
-          "color": "RED",
-          "value": "FIVE",
+          "color": "YELLOW",
+          "value": "SIX",
           "effectKey": "Стандартная"
         },
         {
-          "color": "YELLOW",
+          "color": "GREEN",
+          "value": "SIX",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "GREEN",
+          "value": "TWO",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "BLUE",
+          "value": "SKIP",
+          "effectKey": "Пропуск хода"
+        },
+        {
+          "color": "BLUE",
           "value": "REVERSE",
           "effectKey": "Изменить порядок ходов"
+        },
+        {
+          "color": "BLUE",
+          "value": "FOUR",
+          "effectKey": "Стандартная"
+        }
+      ],
+      "2": [
+        {
+          "color": "YELLOW",
+          "value": "FOUR",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "BLUE",
+          "value": "ONE",
+          "effectKey": "Стандартная"
         },
         {
           "color": "GREEN",
           "value": "ONE",
           "effectKey": "Стандартная"
+        },
+        {
+          "color": "GREEN",
+          "value": "SKIP",
+          "effectKey": "Пропуск хода"
+        },
+        {
+          "color": "BLUE",
+          "value": "EIGHT",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "BLUE",
+          "value": "FOUR",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "BLUE",
+          "value": "EIGHT",
+          "effectKey": "Стандартная"
+        },
+        {
+          "color": "RED",
+          "value": "NINE",
+          "effectKey": "Стандартная"
         }
       ]
     },
-    "winnerIndex": 0,
-    "winnerScore": 33
+    "winnerIndex": 2,
+    "winnerScore": 24
   },
-  "currentPlayerIndex": 0,
-  "direction": "CLOCKWISE",
-  "currentColor": "GREEN",
+  "currentPlayerIndex": 2,
+  "direction": "По_часовой",
+  "currentColor": "RED",
   "gameOver": true,
-  "winnerIndex": 0,
+  "winnerIndex": 2,
   "pendingPenaltyDraw": 0,
   "challengeableState": false,
-  "colorBeforeWild": "GREEN",
-  "lastPlayerWhoPlayedWild": 0,
+  "colorBeforeWild": "BLUE",
+  "lastPlayerWhoPlayedWild": 2,
   "eventLog": []
 }

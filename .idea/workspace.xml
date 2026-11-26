@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04670dfb-aae1-411e-a641-b259029c72be" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uno/exception/InvalidMoveException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uno/extension/GameStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uno/extension/GameStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uno/model/CardValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uno/model/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uno/model/GameContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uno/model/GameDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uno/view/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uno/exception/InvalidMoveException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uno/extension/GameStats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uno/extension/GameStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uno/model/CardValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uno/model/Deck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uno/model/DiscardPile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uno/model/GameDirection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uno/view/ConsoleView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_2_OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_uno_save.json" beforeDir="false" afterPath="$PROJECT_DIR$/external_uno_save.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/uno/model/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uno/model/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/uno/model/GameContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uno/model/GameContext.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lazurb&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lazurb/OOP_Task2_UNO.git&quot;,
+    &quot;accountId&quot;: &quot;e2d455dd-f4c7-4906-95f8-743e44a5b296&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3LgWmeuGFyyzrhA1D1D4Q7fuRr9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UnoGameTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.uno-game [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.uno-game [test].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lazur/IdeaProjects/Task_2_OOP/UnoExternalClient/src/main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lazur/IdeaProjects/Task_2_OOP/UnoExternalClient/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lazur\IdeaProjects\Task_2_OOP\UnoExternalClient\src\main" />
+      <recent name="C:\Users\Lazur\IdeaProjects\Task_2_OOP\UnoExternalClient\src\main\java\client" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04670dfb-aae1-411e-a641-b259029c72be" name="Changes" comment="" />
+      <created>1793876353510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793876353510</updated>
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1795518000089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795518000090</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <option name="closed" value="true" />
+      <created>1795637504316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1795637504316</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <option name="closed" value="true" />
+      <created>1795678085806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1795678085806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+</project>
